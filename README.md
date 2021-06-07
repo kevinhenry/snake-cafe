@@ -1,7 +1,6 @@
-Project README Example
+# Project README Example
 
-We are deployed on ___________!
-[project url here]
+We are deployed on https://github.com/kevinhenry/snake-cafe!
 
 Web Application
 [Explain your app, should be at least a paragraph. What does it do? Why should I use? Sell your product!]
@@ -22,7 +21,7 @@ PyEnv
 Getting Started
 Clone this repository to your local machine.
 
-$ git clone https://github.com/YourRepo/YourProject.git
+$ git clone _____________
 Once downloaded, activate your virtual environment and run by ____________
 
 cd YourRepo/YourProject
