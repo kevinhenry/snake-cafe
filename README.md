@@ -1,6 +1,6 @@
-Project README Example
+# Project README Example
 
-We are deployed on ___________!
+We are deployed on https://github.com/kevinhenry/snake-cafe!
 [project url here]
 
 Web Application
