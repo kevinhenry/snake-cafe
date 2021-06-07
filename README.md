@@ -1,7 +1,6 @@
 # Project README Example
 
 We are deployed on https://github.com/kevinhenry/snake-cafe!
-[project url here]
 
 Web Application
 [Explain your app, should be at least a paragraph. What does it do? Why should I use? Sell your product!]
